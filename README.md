@@ -10,17 +10,23 @@
 python conway.py
 ```
 
+![img](https://github.com/Wangler2333/Conway-s-Game-of-Life/blob/master/screenshot/Conway随机条件.gif)
+
 ### Conway滑翔机
 
 ```shell
 python conway.py --glider
 ```
 
+![img](https://github.com/Wangler2333/Conway-s-Game-of-Life/blob/master/screenshot/Conway滑翔机.gif)
+
 ### Conway发射器
 
 ```shell
 python conway.py --gosper
 ```
+
+![img](https://github.com/Wangler2333/Conway-s-Game-of-Life/blob/master/screenshot/Conway发射器.gif)
 
 ### 其他参数
 
